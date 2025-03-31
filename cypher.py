@@ -4,7 +4,6 @@
 import sys
 import argparse
 import time
-import os
 import art #type:ignore
 
 # Prompt for Title
